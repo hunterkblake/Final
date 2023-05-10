@@ -1,0 +1,124 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+
+
+Html {background-color:#3EB489 }
+
+body {
+	background-color: #3EB489;
+	Margin:50px;
+	outline-color: whitesmoke;
+	color: whitesmoke;
+	outline-style: groove;
+	outline-width: 10px;
+	font-family: garamond;
+
+}
+
+.Whiskeyjar-section {
+  background-color:#3EB489;
+  outline-color: whitesmoke;
+	color: whitesmoke;
+	outline-style: groove;
+	outline-width: 10px;
+	font-family: garamond;
+}
+
+.Bingo-section {
+  background-color:#3EB489;
+  outline-color: whitesmoke;
+	color: whitesmoke;
+	outline-style: groove;
+	outline-width: 10px;
+	font-family: garamond;
+}
+
+.Rudees-section
+{
+  background-color:#3EB489;
+  outline-color: whitesmoke;
+	color: whitesmoke;
+	outline-style: groove;
+	outline-width: 10px;
+	font-family: garamond;
+}
+
+.Decades-section{
+  background-color:#3EB489;
+  outline-color: whitesmoke;
+	color: whitesmoke;
+	outline-style: groove;
+	outline-width: 10px;
+	font-family: garamond;
+
+
+}
+
+
+
+.Tombs-section
+{
+  background-color:#3EB489;
+  outline-color: whitesmoke;
+	color: whitesmoke;
+	outline-style: groove;
+	outline-width: 10px;
+	font-family: garamond;
+}
+
+
+nav {background-color: #3EB489;
+color: whitesmoke; }
+
+.nav-link
+{color: whitesmoke;
+font-family: garamond;}
+
+
+
+header
+{background-color: #3EB489;
+}
+.navbar-brand {
+  color: whitesmoke;
+  font-family: garamond;
+
+}
+
+h1
+{color: whitesmoke;
+	font-family: garamond;
+}
+
+.lead
+{color: whitesmoke;
+font-family: garamond;}
+
+ul
+{list-style: lower-norwegian;
+color: whitesmoke;
+font-family: garamond;}
+
+h2
+{color: whitesmoke;
+	text-align: center;
+	font-family: garamond;
+}
+
+h3
+{color: whitesmoke;
+font-family: garamond;}
+
+a
+{Color: whitesmoke;
+	font-family: garamond;
+}
+
+footer
+{background-color: #3EB489;
+color: #3EB489;
+font-family: garamond;}
+
+
+
+
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
